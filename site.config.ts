@@ -3,11 +3,11 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'motalyss.github.io',
   lang: 'zh-CN',
-  title: 'Motalyssのブログ',
+  title: 'Motalyss"s Blog',
   subtitle: '始めようか？',
   author: {
     name: 'Motalyss',
-    avatar: '/red.jpg',
+    avatar: '/howl014.jpg',
     status:
     {
       emoji: '✒️',
