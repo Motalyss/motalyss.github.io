@@ -3,8 +3,8 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'motalyss.github.io',
   lang: 'zh-CN',
-  title: 'Motalyss\'s blog',
-  subtitle: '始めようか？',
+  title: 'Motalyss\'s blog | Motalyss的博客',
+  subtitle: 'What you see is what you want.',
   author: {
     name: 'Motalyss',
     avatar: '/howl.jpg',
@@ -17,7 +17,7 @@ export default defineSiteConfig({
   mode: 'auto',
   lastUpdated: true,
   favicon: '',
-  description: 'What you see is what you want.',
+  description: '我就是我，是颜色不一样的烟火。',
   social: [
     {
       name: 'GitHub',
