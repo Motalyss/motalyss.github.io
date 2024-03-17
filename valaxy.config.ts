@@ -17,10 +17,13 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: '一直写下去吧',
       cloud: {
         enable: true,
       },
+    },
+    colors: {
+      primary: '#38f2f2'
     },
 
     pages: [
