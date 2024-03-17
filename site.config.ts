@@ -7,7 +7,7 @@ export default defineSiteConfig({
   subtitle: '始めようか？',
   author: {
     name: 'Motalyss',
-    avatar: '/howl014.jpg',
+    avatar: '/howl.jpg',
     status:
     {
       emoji: '✒️',
