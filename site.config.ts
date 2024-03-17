@@ -3,7 +3,7 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'motalyss.github.io',
   lang: 'zh-CN',
-  title: 'Motalyss"s Blog',
+  title: 'Motalyss\'s blog',
   subtitle: '始めようか？',
   author: {
     name: 'Motalyss',
