@@ -47,7 +47,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       {
         name: '喜欢的音乐',
         url: '/music/',
-        icon: 'ri-music-fill',
+        icon: 'i-ri-music-2-line',
         color: '#14f773',
       },
     ],
