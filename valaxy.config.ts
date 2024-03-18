@@ -70,7 +70,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       dark: 'auto',
       requiredMeta: ['nick'],
       locale: {
-        placeholder: '填写邮箱，可以收到回复通知~'
+        placeholder: '若要登录，请使用QQ、微博等第三方登录方式；若不登陆，填写邮箱可收到回复邮件~'
       }
     }),
   ],
