@@ -16,7 +16,7 @@ export default defineSiteConfig({
   },
   mode: 'auto',
   lastUpdated: true,
-  favicon: '',
+  favicon: '/FluentEmojiHighContrastFountainPen.svg',
   description: '我就是我，是颜色不一样的烟火。',
   social: [
     {
@@ -59,7 +59,7 @@ export default defineSiteConfig({
 
   search: {
     enable: true,
-    type: 'engine',
+    type: 'fuse',
   },
 
   sponsor: {

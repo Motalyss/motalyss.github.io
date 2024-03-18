@@ -48,6 +48,14 @@ export default defineValaxyConfig<UserThemeConfig>({
 
     footer: {
       since: 2024,
+      icon: {
+        enable: true,
+        name: 'i-ri-heart-line',
+        animated: true,
+        color: '#d69b54',
+        url: 'https://motalyss.github.io/',	//图标链接
+        title: '回到首页'		//鼠标悬停注释
+      },
       beian: {
         enable: false,
         icp: '苏ICP备17038157号',
@@ -70,7 +78,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       dark: 'auto',
       requiredMeta: ['nick'],
       locale: {
-        placeholder: '若要登录，请使用QQ、微博等第三方登录方式；若不登陆，填写邮箱可收到回复邮件~'
+        placeholder: '若要登录，请使用QQ、微博等第三方登录方式；若不便登陆，填写邮箱可收到回复邮件~'
       }
     }),
   ],
