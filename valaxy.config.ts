@@ -44,6 +44,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         icon: 'i-ri-women-line',
         color: 'hotpink',
       },
+      {
+        name: '喜欢的音乐',
+        url: '/music/',
+        icon: 'ri-music-fill',
+        color: '#14f773',
+      },
     ],
 
     footer: {
