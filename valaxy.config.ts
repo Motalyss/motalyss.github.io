@@ -65,7 +65,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   addons: [
     addonWaline({
       // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
-      serverURL: 'https://waline-test-kv3iqptpf-motalyss-projects.vercel.app/',
+      serverURL: 'https://www.motalyss.store/',
       pageview: true,
       dark: 'auto',
       requiredMeta: ['nick'],
