@@ -8,7 +8,7 @@ useScriptTag('//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js')
 <template>
   <YunFooter>
     <!-- 自定义页脚内容 -->
-    <div>有<span id="busuanzi_value_site_pv" />人来看我~ |ω·`)</div>
+    <div>有<span id="busuanzi_value_site_pv" />个小可爱来看过我~ |ω·`)</div>
     <!-- <div>有<span id="busuanzi_value_site_uv" />人来看过我哦！</div> -->
 
     <VCLiveTime mt="2" start-time="2024-03-17">
