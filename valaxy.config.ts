@@ -77,6 +77,16 @@ export default defineValaxyConfig<UserThemeConfig>({
     },
   },
 
+  markdown: {
+    /**
+     * KaTeX options
+     * @see https://katex.org/docs/options.html
+     */
+    katex: {
+      strict: false
+    }
+  },
+
   siteConfig: {
     // 启用评论
     comment: {
