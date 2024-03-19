@@ -97,7 +97,7 @@ export default defineSiteConfig({
      */
     speed: {
         cn: 300,
-        en: 150,
+        en: 200,
     },
     },
   },

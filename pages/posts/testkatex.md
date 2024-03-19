@@ -1,9 +1,12 @@
 ---
 title: test Katex
 date: 2024-03-19
+updated: 2024-03-19
 ---
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are
+> Test if equations could be properly displayed.
+
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
 **Maxwell's equations:**
