@@ -62,6 +62,10 @@ export default defineSiteConfig({
     type: 'fuse',
   },
 
+  comment: {
+    enable: true,
+  },
+
   statistics: {
     enable: true,
     readTime: {
