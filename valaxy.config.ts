@@ -90,6 +90,7 @@ export default defineValaxyConfig<UserThemeConfig>({
       // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
       serverURL: 'https://www.motalyss.store/',
       pageview: true,
+      comment: true,
       dark: 'auto',
       requiredMeta: ['nick'],
       locale: {
