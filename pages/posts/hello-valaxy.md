@@ -9,6 +9,8 @@ tags:
 top: 1
 ---
 
+> Written by developer.
+
 ## Valaxy
 
 Next Generation Static Blog Framework.

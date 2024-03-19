@@ -1,6 +1,7 @@
 import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
+// import { addonComponents } from 'valaxy-addon-components'
 
 // add icons what you will need
 const safelist = [
@@ -49,6 +50,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         url: '/music/',
         icon: 'i-ri-music-2-line',
         color: '#14f773',
+      },
+      {
+        name: '你问我答',
+        url: '/Q&A/',
+        icon: 'i-ri-questionnaire-line',
+        color: '#f0983a',
       },
     ],
 

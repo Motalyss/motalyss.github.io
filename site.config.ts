@@ -62,10 +62,24 @@ export default defineSiteConfig({
     type: 'fuse',
   },
 
+  statistics: {
+    enable: true,
+    readTime: {
+    /**
+     * 阅读速度
+     */
+    speed: {
+        cn: 300,
+        en: 150,
+    },
+    },
+  },
+
   sponsor: {
-    enable: false,
+    enable: true,
     title: '我很可爱，请给我钱！',
-    methods: [
+    description: "谢谢老板！(≧▽≦)",
+    /*methods: [
       {
         name: '支付宝',
         url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
@@ -84,6 +98,6 @@ export default defineSiteConfig({
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },
-    ],
+    ],*/
   },
 })

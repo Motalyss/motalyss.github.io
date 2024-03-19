@@ -29,8 +29,11 @@ declare module 'vue-router/auto-routes' {
     '/links/': RouteRecordInfo<'/links/', '/links', Record<never, never>, Record<never, never>>,
     '/music/': RouteRecordInfo<'/music/', '/music', Record<never, never>, Record<never, never>>,
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
+    '/posts/3 - 由下到上': RouteRecordInfo<'/posts/3 - 由下到上', '/posts/3 - 由下到上', Record<never, never>, Record<never, never>>,
+    '/posts/论迹与论心': RouteRecordInfo<'/posts/论迹与论心', '/posts/论迹与论心', Record<never, never>, Record<never, never>>,
     '/posts/遇见alan': RouteRecordInfo<'/posts/遇见alan', '/posts/遇见alan', Record<never, never>, Record<never, never>>,
     '/posts/hello-valaxy': RouteRecordInfo<'/posts/hello-valaxy', '/posts/hello-valaxy', Record<never, never>, Record<never, never>>,
+    '/Q&A/': RouteRecordInfo<'/Q&A/', '/Q&A', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
 }
