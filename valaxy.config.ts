@@ -102,9 +102,9 @@ export default defineValaxyConfig<UserThemeConfig>({
       pageview: true,
       comment: true,
       dark: 'auto',
-      requiredMeta: ['nick'],
+      requiredMeta: ['nick', 'mail'],
       locale: {
-        placeholder: '若要登录，请使用QQ、微博等第三方登录方式；若不便登陆，填写邮箱可收到回复邮件~'
+        placeholder: '若要登录，请使用QQ、微博等第三方登录方式；若不便登陆，填写邮箱可收到回复提醒~'
       }
     }),
   ],

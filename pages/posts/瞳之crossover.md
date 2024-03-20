@@ -6,7 +6,7 @@ categories: 随笔
 tags:
   - music
   - 随笔
-top: 1
+#top: 1
 ---
 
 > 原标题：浅析岛谷瞳的几首古典流行乐 
