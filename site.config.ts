@@ -49,12 +49,6 @@ export default defineSiteConfig({
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
-    {
-      name: 'E-Mail: 1198246098@qq.com',
-      link: '1198246098@qq.com',
-      icon: 'i-ri-mail-line',
-      color: '#8E71C1',
-    },
   ],
 
   search: {
