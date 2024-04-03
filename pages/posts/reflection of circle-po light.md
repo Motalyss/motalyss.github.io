@@ -5,6 +5,7 @@ updated: 2024-04-03
 categories: 学习笔记
 tags:
   - 学习
+mathjax: true
 ---
 
 ### 问题
