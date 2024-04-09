@@ -11,6 +11,9 @@ dependencies:
   valaxy-addon-components:
     specifier: ^0.0.2
     version: 0.0.2
+  valaxy-addon-meting:
+    specifier: ^0.1.0
+    version: 0.1.0
   valaxy-addon-waline:
     specifier: ^0.1.2
     version: 0.1.2(typescript@5.4.2)(valaxy@0.18.5)
@@ -4786,6 +4789,10 @@ packages:
 
   /valaxy-addon-components@0.0.2:
     resolution: {integrity: sha512-J6JeNTagohF9fNvYaYiOwVHQGuhoWamy1P01mEUfzreacaJ3CqzJU1G/uSFMTvm3CXvMo8OAQCwqa+OqBG0dkw==}
+    dev: false
+
+  /valaxy-addon-meting@0.1.0:
+    resolution: {integrity: sha512-2pw8r3nWMx942BdmxnpKu5p/eHXLplZ6C199ZyurtsY+EycmaP953Veuvf2URW2I6KrvmwUqN/fC5OFzVhbP4w==}
     dev: false
 
   /valaxy-addon-waline@0.1.2(typescript@5.4.2)(valaxy@0.18.5):

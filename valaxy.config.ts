@@ -2,6 +2,7 @@ import { defineValaxyConfig } from 'valaxy'
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { addonWaline } from 'valaxy-addon-waline'
 import { addonComponents } from 'valaxy-addon-components'
+import { addonMeting } from 'valaxy-addon-meting'
 // import { addonComponents } from 'valaxy-addon-components'
 
 // add icons what you will need
@@ -96,6 +97,16 @@ export default defineValaxyConfig<UserThemeConfig>({
   // 设置 valaxy-addon-waline 配置项
   addons: [
     addonComponents(),
+
+    addonMeting({
+      global: true,
+      props: {
+        id: '1198246098',
+        server: 'tencent',
+        type: 'song',
+      },
+    }),
+
     addonWaline({
       // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
       serverURL: 'https://www.motalyss.store/',
