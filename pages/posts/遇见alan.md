@@ -6,7 +6,6 @@ categories: 随笔
 tags:
   - music
   - 随笔
-top: 1
 ---
 
 > 原链接：[遇见alan](https://www.douban.com/note/802138574/?_i=076649371LhkTj)
