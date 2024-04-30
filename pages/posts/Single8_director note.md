@@ -1,5 +1,5 @@
 ---
-title: 《Single8》导演的话
+title: Single8 _ Director's note
 date: 2024-04-30
 updated: 2024-04-30
 categories: 有趣的东西
