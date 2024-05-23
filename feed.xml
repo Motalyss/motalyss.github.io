@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Motalyss's blog | Motalyss的博客</title>
+        <link>motalyss.github.io/</link>
+        <description>我就是我，是颜色不一样的烟火。</description>
+        <lastBuildDate>Thu, 23 May 2024 03:03:20 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Motalyss's blog | Motalyss的博客</title>
+            <url>motalyss.github.io/howl.jpg</url>
+            <link>motalyss.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © Motalyss</copyright>
+        <atom:link href="motalyss.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2024，第一次北影节]]></title>
+            <link>motalyss.github.io/posts/北影节2024</link>
+            <guid>motalyss.github.io/posts/北影节2024</guid>
+            <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>趁着五一假期爸妈来北京玩的机会，拜托我妈将吃灰三年半的无线键盘从家里带来，自此iPad + 无线键盘的组合又一次发挥了它的最初功能：替代笨重的电脑和屏幕过小的手机码字。下面开始正文。</p>
+<p>在北影节的消</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[Single8 _ Director's note]]></title>
+            <link>motalyss.github.io/posts/Single8_director note</link>
+            <guid>motalyss.github.io/posts/Single8_director note</guid>
+            <pubDate>Tue, 30 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>《Single8》是我本届北影节最喜爱的作品之一，我想为它做点什么，所以将小中和哉导演为影片写的小记做个翻译。原文在[电影《Single8》官方网站](<a href="https://www.single8-m">https://www.single8-m</a></p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[我的互联网嘴替们（永久更新！）]]></title>
+            <link>motalyss.github.io/posts/我的互联网嘴替们</link>
+            <guid>motalyss.github.io/posts/我的互联网嘴替们</guid>
+            <pubDate>Thu, 18 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>互联网是个伟大的发明。我有很多想说的东西，碍于精力和笔力，要将它们转化为成篇的文字不是件容易的事。所以特地开一个新坑，持续记录给我留下印象的网友发言。大部分来源是bu，因为bilibili是年轻</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[从焦虑说起（未完成）]]></title>
+            <link>motalyss.github.io/posts/从焦虑说起</link>
+            <guid>motalyss.github.io/posts/从焦虑说起</guid>
+            <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p><em><strong>For all my friends.</strong></em></p>
+</blockquote>
+<h3>前言</h3>
+<h4>问题就在那里</h4>
+<p>焦虑无处不在。我们这个年代的孩子从小卷到大，以为卷是理所当然的，认为不够努力的结果就是比别人差。如</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[君たちはどう生きるか]]></title>
+            <link>motalyss.github.io/posts/kimihadouikiruka</link>
+            <guid>motalyss.github.io/posts/kimihadouikiruka</guid>
+            <pubDate>Sat, 06 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>原链接：<a href="https://movie.douban.com/review/15858730/">Motalyss的豆瓣影评：君たちはどう生きるか</a></p>
+</blockquote>
+<p><strong>有剧透。</strong></p>
+<p>**本文为个人思考，仅供</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[旋光的反射]]></title>
+            <link>motalyss.github.io/posts/reflection of circle-po light</link>
+            <guid>motalyss.github.io/posts/reflection of circle-po light</guid>
+            <pubDate>Wed, 03 Apr 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h3>问题</h3>
+<p>一束左旋圆偏振光（以光传播方向定义）垂直打到理想平面镜上，反射光旋向如何？若经过两次45°反射，反射光旋向如何？</p>
+<h3>解答</h3>
+<h4>垂直入射</h4>
+<p>先说答案：反射光为右旋光。</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[揭开面纱之后……]]></title>
+            <link>motalyss.github.io/posts/揭开面纱之后</link>
+            <guid>motalyss.github.io/posts/揭开面纱之后</guid>
+            <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>所有在爱情里认为另一方有缺陷，并且足以影响到自己对ta感情的人都应当读一读这本书。</p>
+</blockquote>
+<p>上周读了毛姆的《面纱》，觉得有很多想说的，也觉得以自己的笔力不足以将它们有条理的一次性说尽，故沉淀一周再开始</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[test Katex]]></title>
+            <link>motalyss.github.io/posts/testkatex</link>
+            <guid>motalyss.github.io/posts/testkatex</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>Test if equations could be properly displayed.</p>
+</blockquote>
+<p>When $a \ne 0$, there are two solutions to $ax^2</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[我眼里的J-POP]]></title>
+            <link>motalyss.github.io/posts/我听JPOP</link>
+            <guid>motalyss.github.io/posts/我听JPOP</guid>
+            <pubDate>Tue, 19 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>这篇是本科音乐鉴赏课的大作业讲稿，可惜没有讲成。重读一遍发现有好多西方式的中文表达，改得我好累。</p>
+<p>本文头重脚轻，近二十年的音乐说的太少，有失偏颇。请大家指正！</p>
+</blockquote>
+<p>这篇像是小论文似的东西是</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[遇见alan]]></title>
+            <link>motalyss.github.io/posts/遇见alan</link>
+            <guid>motalyss.github.io/posts/遇见alan</guid>
+            <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>原链接：<a href="https://www.douban.com/note/802138574/?_i=076649371LhkTj">遇见alan</a></p>
+<p>会慢慢将豆瓣上的小作文都搬过来的。</p>
+</blockquote>
+<ul>
+<li>正</li>
+</ul>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[3 - 由下到上]]></title>
+            <link>motalyss.github.io/posts/3 - 由下到上</link>
+            <guid>motalyss.github.io/posts/3 - 由下到上</guid>
+            <pubDate>Sun, 10 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>原链接：<a href="https://www.douban.com/people/205757224/notes?_i=081756171LhkTj">（3）由下到上</a></p>
+</blockquote>
+<p>在大一那年的暑假，我参加了爸爸同学</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[论迹与论心]]></title>
+            <link>motalyss.github.io/posts/论迹与论心</link>
+            <guid>motalyss.github.io/posts/论迹与论心</guid>
+            <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>原链接：<a href="https://www.douban.com/note/859917179/?_i=076622571LhkTj">论心不论迹or论迹不论心？</a></p>
+</blockquote>
+<p>记得小时候心情正烦，或者不是烦而是无</p>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[岛谷瞳的crossover]]></title>
+            <link>motalyss.github.io/posts/瞳之crossover</link>
+            <guid>motalyss.github.io/posts/瞳之crossover</guid>
+            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>原标题：浅析岛谷瞳的几首古典流行乐</p>
+<p>这篇是大学音乐鉴赏选修课的小作业，在把写文章当作业的课程里，这门课是我最喜欢的，因为可以写自己最喜欢的音乐。隔了两年多再看这篇，依然觉得好有趣。</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[浅析《二月》中的人物情感]]></title>
+            <link>motalyss.github.io/posts/读柔石《二月》</link>
+            <guid>motalyss.github.io/posts/读柔石《二月》</guid>
+            <pubDate>Sun, 23 Dec 2018 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>这篇是大一人文课：中西文学研读的结课小作文。《二月》作者柔石，是一个世纪前的左翼作家。读这篇小说本应着眼于人物反映的社会问题，但我仅在情感层面作了浅薄分析，作为作品赏析来看，这篇读后感还远远不够</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+        <item>
+            <title><![CDATA[雪]]></title>
+            <link>motalyss.github.io/posts/雪</link>
+            <guid>motalyss.github.io/posts/雪</guid>
+            <pubDate>Fri, 31 Mar 2017 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<blockquote>
+<p>高二的时候，不到一周写毕，石沉大海的，我的十六岁处女作。</p>
+<p>故事的缺点不少，可当时最让我头疼的却是怎么给角色取名。直到现在，我仍对这些名字不甚满意。文笔倒是凑合，我想主要是受当时读的许多日</p>
+</blockquote>
+]]></content:encoded>
+            <author>i@valaxy.site (Motalyss)</author>
+        </item>
+    </channel>
+</rss>
